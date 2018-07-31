@@ -10,6 +10,27 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
+#red { 
+  border-top-color: f; 
+} 
+  
+#orange { 
+  border-top-color: f;
+}
+
+#yellow {
+  border-top-color: f;
+}
+  
+#green { 
+  border-top-color: f;
+}
+
+#blue 
+  border-top-color: f; 
+}   
+  
+  
 #violet {
   background-color: blue;
 }
